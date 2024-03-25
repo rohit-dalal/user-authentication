@@ -7,7 +7,7 @@
 ```bash
 git clone https://github.com/rohit-dalal/user-authentication.git
 cd User-Authentication
-py -3 -m venv venv
+python -3 -m venv venv
 
 ```
           
