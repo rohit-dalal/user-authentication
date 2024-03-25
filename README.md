@@ -1,6 +1,6 @@
-# User-Authentication-in-Flask
+# User-Authentication
 
-## Set up & Installation.
+## Set up and Installation.
                     
 **Windows**
           
